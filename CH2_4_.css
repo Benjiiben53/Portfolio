@@ -1,0 +1,39 @@
+body {
+    background-color: #555555;
+}
+
+article {
+    background-image: url("Images/pingouin.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    border: 7px orange dashed;
+    margin-top: 1%;
+    padding: 10px;
+}
+
+.article1 {
+    background-color: #446666;
+    background-clip: border-box;
+    background-origin: border-box;
+}
+
+.article2 {
+    background-color: #446644;
+    background-clip: padding-box;
+    background-origin: padding-box;
+}
+
+.article3 {
+    background-color: #664466;
+    background-clip: content-box;
+    background-origin: content-box;
+} 
+
+
+h1, h2, h3, p {
+    color: white;
+}
+
+a {
+    color: blue;
+}
