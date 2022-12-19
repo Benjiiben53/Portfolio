@@ -65,3 +65,8 @@ article ul {
 article ul ul {
     list-style: "↳ ";
 }
+
+.download {
+    font-size: 12px;
+    padding: 10px;
+}

@@ -18,7 +18,7 @@
     <div class="contenu-page">
         <center>
             <p>Vous pouvez retrouvez mon CV en format PDF, la version site est en construction.</p>
-            <a href="#" class="button download"><i class="fa fa-download"></i> Download</a>
+            <a href="../src/downloads/cv.pdf" class="button download"><i class="fa fa-download"></i> Download</a>
         </center>
     </div>
 

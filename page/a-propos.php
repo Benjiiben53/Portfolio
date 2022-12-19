@@ -21,7 +21,24 @@
                 <div class="text">
                     <h2>Profil personnel</h2>
                     <hr class="separator" style>
-                    <p>Etudiant en BTS SIO dans le but de me spécialiser en Réseau puis CyberSécurité</p>
+                    <ol>
+                        <li><h3>Qui sui-je ?</h3>
+                            <ul>
+                                <li>
+                                    J'ai 18 ans, je suis originaire de Franche-Comté, passionné par l'informatique en générale, j'eb souhaite faire mon métier d'avenir.<br>
+                                    Dans l'informatique, je me situe plus vers le réseau que vers le développement, j'amerais me spécialiser en CyberSécurité et Administrateur Réseau
+                                </li>
+                            </ul>
+                        </li>
+
+                        <br><br>
+
+                        <li><h3>Veille technologique:</h3>
+                            <ul>
+                                <li>IT connect</li>
+                            </ul>
+                        </li>
+                    </ol>
                 </div>
                 <div class="image"><i class="fa-solid fa-id-card"></i></div>
             </article>
@@ -31,7 +48,8 @@
                     <h2 id="Etude">Etude</h2>
                     <hr class="separator" style>
                     <ul>
-                        <li>Bac Pro Système Numérique - 2022</li>
+                        <li>Diplôme National du Brevet - 2019 - mention Bien</li>
+                        <li>Bac Pro Système Numérique - 2022 - mention Très Bien</li>
                         <li>BTS SIO - En préparation</li>
                     </ul>
                 </div>
