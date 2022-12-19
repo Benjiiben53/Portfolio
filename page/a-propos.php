@@ -23,10 +23,10 @@
                     <hr class="separator" style>
                     <ol>
                         <li><h3>Qui sui-je ?</h3>
-                            <ul>
+                            <ul class="no_list-styles">
                                 <li>
                                     J'ai 18 ans, je suis originaire de Franche-Comté, passionné par l'informatique en générale, j'eb souhaite faire mon métier d'avenir.<br>
-                                    Dans l'informatique, je me situe plus vers le réseau que vers le développement, j'amerais me spécialiser en CyberSécurité et Administrateur Réseau
+                                    Dans l'informatique, je me situe plus vers le réseau que vers le développement, j'amerais me spécialiser en CyberSécurité et Administrateur Réseau.
                                 </li>
                             </ul>
                         </li>
