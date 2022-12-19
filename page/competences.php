@@ -51,6 +51,19 @@
                         <li>Ce site web</li>
                         <li>Montage PC de A à Z</li>
                     </ul>
+
+                    <br>
+
+                    <h3>Futur projet</h3>
+                    <ul>
+                        <li>
+                            Veille technologique avec flux RSS
+                            <ul>
+                                <ol>Faire un serveur sur ma Debian qui récupérera des flux RSS de plusieurs site que je suis<br>
+                                et pouvoir les consulter sur un client compatible Android.</ol>
+                            </ul>
+                        </li>
+                    </ul>
                 </div>
                 <div class="image"><i class="fa-solid fa-lightbulb"></i></div>
             </article>
@@ -61,11 +74,11 @@
                     <hr class="separator" style>
                     <h3>En entreprise:</h3>
                     <ul>
-                        <li>DMi services - Dijon</li>
+                        <li><a href="https://www.facebook.com/dmiservices.dijon/" target="_blank">DMi services</a> - Dijon</li>
                         <ul>
-                            <ol>Stage de 4 + 2 semaines</ol>
+                            <ol>Stages de 4 et 2 semaines</ol>
                         </ul>
-                        <li>Afodis - Admx - Besançon</li>
+                        <li><a href="https://admx.fr/" target="_blank">Afodis-Admx</a> - Besançon</li>
                         <ul>
                             <ol>Stage de 3 semaines</ol>
                         </ul>
