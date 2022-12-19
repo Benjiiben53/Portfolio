@@ -4,6 +4,7 @@
 <head>
     <meta charset="UTF-8" />
     <title>Page d'acceuil</title>
+    <link rel="icon" type="image/x-icon" href="../src/images/favicon.jpg">
     <link rel="stylesheet" href="../styles/style.css" />
     <link rel="stylesheet" href="../styles/cv.css" />
     <!-- FONT AWESOME -->
