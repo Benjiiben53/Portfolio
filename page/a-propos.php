@@ -23,10 +23,10 @@
                     <h2>Profil personnel</h2>
                     <hr class="separator" style>
                     <ol>
-                        <li><h3>Qui sui-je ?</h3>
+                        <li><h3>Qui suis-je ?</h3>
                             <ul class="no_list-styles">
                                 <li>
-                                    J'ai 18 ans, je suis originaire de Franche-Comté, passionné par l'informatique en générale, j'eb souhaite faire mon métier d'avenir.<br>
+                                    J'ai 18 ans, je suis originaire de Franche-Comté, passionné par l'informatique en générale, j'en souhaite faire mon métier d'avenir.<br>
                                     Dans l'informatique, je me situe plus vers le réseau que vers le développement, j'amerais me spécialiser en CyberSécurité et Administrateur Réseau.
                                 </li>
                             </ul>
@@ -46,12 +46,12 @@
 
             <article>
                 <div class="text">
-                    <h2 id="Etude">Etude</h2>
+                    <h2 id="Etude">Etudes</h2>
                     <hr class="separator" style>
                     <ul>
                         <li>Diplôme National du Brevet - 2019 - mention Bien</li>
                         <li>Bac Pro Système Numérique - 2022 - mention Très Bien</li>
-                        <li>BTS SIO - En préparation</li>
+                        <li>BTS Services Informatiques aux Organisations - En préparation</li>
                     </ul>
                 </div>
                 <div class="image"><i class="fa-solid fa-graduation-cap"></i></div>

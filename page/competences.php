@@ -25,8 +25,8 @@
                     <h2 id="Certification">Certification</h2>
                     <hr class="separator" style>
                     <ul>
-                        <li>Mooc de l'ANSSI<a href="../src/downloads/anssi.pdf" class="button download"><i class="fa fa-download"></i> Télécharger</a></li>
-                        <li>Mooc de la CNIL<a href="../src/downloads/cnil.pdf" class="button download"><i class="fa fa-download"></i> Télécharger</a></li>
+                        <li>Mooc de l'ANSSI<a href="../src/downloads/Attestation-MOOC_Fichot-Benjamin.pdf" class="button download"><i class="fa fa-download"></i> Télécharger</a></li>
+                        <li>Mooc de la CNIL<a href="../src/downloads/Certificat_CNIL_Fichot_Benjamin.zip" class="button download"><i class="fa fa-download"></i> Télécharger</a></li>
                         <li>PIX                      <a href="../src/downloads/pix.pdf" class="button download"><i class="fa fa-download"></i> Télécharger</a></li>
                     </ul>
                 </div>

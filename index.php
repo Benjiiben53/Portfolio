@@ -17,8 +17,8 @@
 <body>
     <?php include("src/presets/header.php") ?>
     <div class="contenu-page">
+        <img src="./src/images/favicon.jpg"></img>
         <h1>Benjamin Fichot</h1>
-        <i>
     </div>
     <?php include("src/presets/footer.php") ?>
 </body>
